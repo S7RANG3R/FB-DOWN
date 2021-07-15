@@ -11,7 +11,7 @@
 <h6>$ apt-get update && apt-get upgrade
 <br>৳$ pkg install python -y
 <br>৳$ pip install requests
-<br>৳$ pip install wget
+<br>৳$ pkg install wget
 <br>৳$ pkg install python3 -y
 <br>$ git clone https://github.com/S7RANG3R/FB-DOWN
 <br>$ cd FB-DOWN
